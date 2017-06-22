@@ -1,0 +1,8 @@
+.slider {
+	margin: 10px;
+}
+
+.block {
+	display: flex;
+	flex-wrap: wrap;
+}
